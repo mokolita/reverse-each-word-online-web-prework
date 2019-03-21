@@ -7,3 +7,4 @@ def reverse(string)
  string.each do |char|
   reversed_string.unshift(char)
  end
+ end 
